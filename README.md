@@ -6,7 +6,7 @@ take it from args too.
 
 ## Motivation
 
-This code is used in Apache Airflow as KubernetesPodSensor in tutorial.
+This code is used in Apache Airflow as KubernetesPodSensor in tutorial `Build Custom Sensor KubernetesPodSensor` [here](https://github.com/maxcotec/airflow-k8s-rancher/blob/main/airflow-dags/dags/k8sPodSensorDag.py#L12).
 
 ## Build instructions
 
